@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "SYMBOL": "NIFTY 50",
+      "symbol": "NIFTY 50",
       "OPEN": 22512.85,
       "HIGH": 22520.25,
       "LOW": 22470.05,
