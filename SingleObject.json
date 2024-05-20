@@ -2,11 +2,11 @@
   "data": [
     {
       "symbol": "NIFTY 50",
-      "OPEN": 22512.85,
-      "HIGH": 22520.25,
-      "LOW": 22470.05,
+      "open": 22512.85,
+      "high": 22520.25,
+      "low": 22470.05,
       "PREV_CLOSE": 22466.1,
-      "LTP": 22502,
+      "ltp": 22502,
       "CHANGE": 35.9,
       "PCT_CHANGE": 0.16,
       "VOLUME_SHARES": 19064566,
