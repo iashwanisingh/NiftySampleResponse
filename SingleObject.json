@@ -15,6 +15,22 @@
       "52W_LOW": 18333.15,
       "30D_PCT_CHANGE": 1.6,
       "365D_PCT_CHANGE": 23.61
+    },
+    {
+      "symbol": "NIFTY 50",
+      "open": 22512.85,
+      "high": 22520.25,
+      "low": 22470.05,
+      "PREV_CLOSE": 22466.1,
+      "ltp": 22502,
+      "CHANGE": 35.9,
+      "PCT_CHANGE": 0.16,
+      "VOLUME_SHARES": 19064566,
+      "VALUE_CRORES": 1572.76,
+      "52W_HIGH": 22794.7,
+      "52W_LOW": 18333.15,
+      "30D_PCT_CHANGE": 1.6,
+      "365D_PCT_CHANGE": 23.61
     }
   ]
 }
